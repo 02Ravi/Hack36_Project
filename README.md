@@ -6,13 +6,15 @@
 
 
 ## Introduction:
-  Intro of the project
+  This web app can be used by local shops for selling their products.
+  The Tech Savvy Sellers are given a very minimalistic design to work with.
+  The consumer side works in a way that it shows the nearby products sold by a shop.
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+<!--   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a> -->
   
 ## Presentation Link:
-  <a href="https://cutt.ly/H365PPT"> PPT link here </a>
+<!--   <a href="https://cutt.ly/H365PPT"> PPT link here </a> -->
   
   
 ## Table of Contents:
@@ -29,9 +31,9 @@
 
 Team Name: Tech Tycoon
 
-* [Ayush Kumar](https://github.com/nisiddharth)
-* [Alia Verma](https://github.com/ashu12chi)
-* [Ravi Raj](https://github.com/Anushkaa-Srivastava)
+* [Ayush Kumar](https://github.com/Ayush-Kumar0)
+* [Alia Verma](https://github.com/Alia1234567)
+* [Ravi Raj](https://github.com/02Ravi)
 
 
 ### Made at:
