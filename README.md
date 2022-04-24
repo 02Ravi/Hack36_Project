@@ -11,7 +11,7 @@
   The consumer side works in a way that it shows the nearby products sold by a shop.
   
 ## Demo Video Link:
-  <a href="https://drive.google.com/file/d/1Jr5Ym1C0yzpfUMbOat7zojZgZsWsx03c/view?usp=sharing">https://drive.google.com/file/d/1Jr5Ym1C0yzpfUMbOat7zojZgZsWsx03c/view?usp=sharing</a>
+  <a href="https://youtu.be/f0OOpyKMvXQ">https://youtu.be/f0OOpyKMvXQ</a>
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1jw4xZPdLaBRi7OidyZv-XP5rfopD6PgR/edit?usp=sharing&ouid=106357983037618899298&rtpof=true&sd=true"> PPT link here </a>
